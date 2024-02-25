@@ -46,13 +46,6 @@
 .form-class input[type="text"],
 .form-class textarea {
   border: 1px solid CadetBlue;
-  color: DimGray; 
-  width: 40%;
-  padding: 8px;
-  margin-bottom: 10px;
-  border: 1px solid;
-  border-radius: 4px; 
-  box-sizing: border-box; 
 }
 
 .newsletter-section-class input[type="email"] {
@@ -66,6 +59,12 @@
 .contact-section-class input[type="text"],
 .contact-section-class input[type="email"] {
   border: 1px solid CadetBlue; 
+  color: DimGray; 
+  width: 40%;
+  padding: 8px;
+  margin-bottom: 10px;
+  border-radius: 4px; 
+  box-sizing: border-box; 
 }
 
 
