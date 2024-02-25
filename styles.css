@@ -1,8 +1,13 @@
 .body-class {
   background-color: aliceblue;
+  
 .header-class {
   background-color: cadetblue;
   color: black;
   padding: 40px;
   text-align: center;
 }
+
+.nav-class {
+  display: inline;
+  
