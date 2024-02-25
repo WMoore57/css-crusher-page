@@ -23,11 +23,6 @@
   text-decoration: none;
 }
 
-.nav-class a.active {
-  font-weight: bold;
-  color: Salmon
-}
-
  .title-class {
   color: DarkSlateGray; 
   font-family: "Georgia", serif; 
@@ -78,7 +73,7 @@
   color: DimGray; 
 }
 
-#newsletter-email {
+#newsletter-email label{
   width: 40%;
   padding: 12px 20px;
   margin: 8px 0;
@@ -87,11 +82,11 @@
   background-color: CadetBlue;
   color: white;
 
-#name {
+#name input[type="text"]{
   background-color: lightgrey;
 }
 
-#email {
+#email input[type="email"]{
   padding: 12px 20px;
   margin: 8px 0;
   box-sizing: border-box;
