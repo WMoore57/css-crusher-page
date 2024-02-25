@@ -75,19 +75,17 @@
   background-color: CadetBlue;
   color: white;
 
-.form-class {
-  .label-class {
-    background-color: lightgrey;
-  }
+#name {
+  background-color: lightgrey;
+}
 
-  .input-class {
-    padding: 12px 20px;
-    margin: 8px 0;
-    box-sizing: border-box;
-    border: none;
-    background-color: CadetBlue;
-    color: white;
-  }
+#email {
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: none;
+  background-color: CadetBlue;
+  color: white;  
 }
 
 @media screen and (max-width: 768px) {
