@@ -34,6 +34,8 @@
 
 .image-class {
   border: 1px solid CadetBlue;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .form-class input[type="text"],
