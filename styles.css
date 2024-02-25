@@ -75,17 +75,19 @@
   background-color: CadetBlue;
   color: white;
 
-.label-class {
-  background-color: lightgrey;
-}
+.form-class {
+  .label-class {
+    background-color: lightgrey;
+  }
 
-.input-class {
-  padding: 12px 20px;
-  margin: 8px 0;
-  box-sizing: border-box;
-  border: none;
-  background-color: CadetBlue;
-  color: white;
+  .input-class {
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border: none;
+    background-color: CadetBlue;
+    color: white;
+  }
 }
 
 @media screen and (max-width: 768px) {
