@@ -47,6 +47,12 @@
 .form-class textarea {
   border: 1px solid CadetBlue;
   color: DimGray; 
+  width: 40%;
+  padding: 8px;
+  margin-bottom: 10px;
+  border: 1px solid;
+  border-radius: 4px; 
+  box-sizing: border-box; 
 }
 
 .newsletter-section-class input[type="email"] {
@@ -82,13 +88,6 @@
   background-color: CadetBlue;
   color: white;
 
-.input-class {
-  width: 40%;
-  padding: 8px;
-  margin-bottom: 10px;
-  border: 1px solid;
-  border-radius: 4px; 
-  box-sizing: border-box; 
 }
 
 @media screen and (max-width: 800px) {
