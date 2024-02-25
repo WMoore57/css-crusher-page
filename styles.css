@@ -57,12 +57,25 @@
 
 .button-class {
   background-color: CadetBlue; 
-  color: DimGray; 
+  color: Back; 
 }
 
 .footer-class {
   background-color: LightCoral; 
   color: DimGray; 
+}
+
+#newsletter-email {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  border: none;
+  background-color: CadetBlue;
+  color: white;
+
+.label-class {
+  background-color: lightgrey;
 }
 
 @media screen and (max-width: 768px) {
