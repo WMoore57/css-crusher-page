@@ -13,9 +13,19 @@
 .nav-class {
   background-color: NavajoWhite;
   color: Salmon; 
+  display: block;
+  padding: 8px;
+  text-decoration: none;
 }
+
+.nav-link-class {
+  color: Salmon;
+  text-decoration: none;
+}
+
 .nav-class a.active {
-  font-weight: bold; 
+  font-weight: bold;
+  color: Salmon
 }
 
  .title-class {
