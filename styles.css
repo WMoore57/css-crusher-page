@@ -18,19 +18,19 @@
   font-weight: bold; 
 }
 
-/* .title-class {
-  color: #7b0148; 
+ .title-class {
+  color: DarkSlateGray; 
   font-family: "Georgia", serif; 
 }
 .section-title-class {
-  color: #5c022c; 
+  color: DimGray; 
   font-family: "Georgia", serif; 
 }
 
 .text-class {
   color: black; 
 }
-
+/*
 .image-class {
   border: 1px solid #ff0000;
 }
