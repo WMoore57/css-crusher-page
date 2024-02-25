@@ -1,1 +1,8 @@
-
+.body {
+  background-color: aliceblue;
+.header {
+  background-color: cadetblue;
+  color: black;
+  padding: 40px;
+  text-align: center;
+}
