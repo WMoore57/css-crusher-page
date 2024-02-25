@@ -30,45 +30,44 @@
 .text-class {
   color: black; 
 }
-/*
+
 .image-class {
-  border: 1px solid #ff0000;
+  border: 1px solid CadetBlue;
 }
 
 .form-class input[type="text"],
 .form-class textarea {
-  border: 1px solid #f0c5d5;
-  color: #af0606; 
+  border: 1px solid CadetBlue;
+  color: DimGray; 
 }
 
 .newsletter-section-class input[type="email"] {
-  border: 1px solid #ff69b4; 
+  border: 1px solid CadetBlue; 
 }
 
 .newsletter-section-class input[email] {
-  border: 1px solid #ff69b4;
+  border: 1px solid CadetBlue;
 }
 
 .contact-section-class input[type="text"],
 .contact-section-class input[type="email"] {
-  border: 1px solid #ff69b4; 
+  border: 1px solid CadetBlue; 
 }
 
 
 .button-class {
-  background-color: #ac0045; 
-  color: #fbcbcb; 
+  background-color: CadetBlue; 
+  color: DimGray; 
 }
 
 .footer-class {
-  background-color: #ce5a7b; 
-  color: #ef04d7; 
+  background-color: Salmon; 
+  color: DimGray; 
 }
 
 @media screen and (max-width: 768px) {
 }
 
 @media screen and (min-width: 1200px) {
-
 } 
-*/
+
