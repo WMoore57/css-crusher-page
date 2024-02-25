@@ -82,11 +82,9 @@
   background-color: CadetBlue;
   color: white;
 
-#name input[type="text"]{
-  background-color: lightgrey;
-}
 
-#email input[type="email"]{
+
+.input-class{
   padding: 12px 20px;
   margin: 8px 0;
   box-sizing: border-box;
