@@ -1,23 +1,74 @@
 .body-class {
-  background-color: LightSeeGreen;
-  
+  background-color: Salmon; 
+  color: black; 
+  font-family: "Georgia", serif; 
+}
+
 .header-class {
-  background-color: cadetblue;
-  color: black;
-  padding: 40px;
-  text-align: center;
+  background-color: CadetBlue; 
+  color: black; 
+  font-family: "Georgia", serif; 
 }
 
 .nav-class {
+  background-color: NavajoWhite;
+  color: Salmon; 
+}
+.nav-class a.active {
+  font-weight: bold; 
+}
 
-.title-class {
+/* .title-class {
+  color: #7b0148; 
+  font-family: "Mercury Display", sans-serif; 
+}
+.section-title-class {
+  color: #5c022c; 
+  font-family: "Mercury Display", sans-serif; 
+}
 
 .text-class {
-  
-.image-class {
+  color: black; 
+}
 
-.form-class {
+.image-class {
+  border: 1px solid #ff0000;
+}
+
+.form-class input[type="text"],
+.form-class textarea {
+  border: 1px solid #f0c5d5;
+  color: #af0606; 
+}
+
+.newsletter-section-class input[type="email"] {
+  border: 1px solid #ff69b4; 
+}
+
+.newsletter-section-class input[email] {
+  border: 1px solid #ff69b4;
+}
+
+.contact-section-class input[type="text"],
+.contact-section-class input[type="email"] {
+  border: 1px solid #ff69b4; 
+}
+
 
 .button-class {
+  background-color: #ac0045; 
+  color: #fbcbcb; 
+}
 
 .footer-class {
+  background-color: #ce5a7b; 
+  color: #ef04d7; 
+}
+
+@media screen and (max-width: 768px) {
+}
+
+@media screen and (min-width: 1200px) {
+
+} 
+*/
