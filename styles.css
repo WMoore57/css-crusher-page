@@ -82,17 +82,13 @@
   background-color: CadetBlue;
   color: white;
 
-
-
-.input-class input[type="text"],
-.input-class input[type="text"] {
+.input-class {
   width: 40%;
-  padding: 12px 20px;
-  margin: 8px 0;
-  box-sizing: border-box;
-  border: none;
-  background-color: CadetBlue;
-  color: white;  
+  padding: 8px;
+  margin-bottom: 10px;
+  border: 1px solid;
+  border-radius: 4px; 
+  box-sizing: border-box; 
 }
 
 @media screen and (max-width: 800px) {
